@@ -5,6 +5,7 @@
 
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
+[![wakatime](https://wakatime.com/badge/user/7a39e36a-7acf-4fcf-a603-e1c8910af656.svg)](https://wakatime.com/@7a39e36a-7acf-4fcf-a603-e1c8910af656)
 
 
 
