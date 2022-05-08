@@ -4,7 +4,7 @@
 ![linwenxuan04's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=linwenxuan04&layout=compact)
 
 
-![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Python](https://img.shields.io/badge/Python-3.8-blue) ![.NET](https://img.shields.io/badge/.NET-6.0-brightgreen)
 [![wakatime](https://wakatime.com/badge/user/7a39e36a-7acf-4fcf-a603-e1c8910af656.svg)](https://wakatime.com/@7a39e36a-7acf-4fcf-a603-e1c8910af656)
 
 
